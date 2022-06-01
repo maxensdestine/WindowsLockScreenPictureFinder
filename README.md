@@ -1,5 +1,5 @@
 # WindowsLockScreenPictureFinder
-GUI app to helps windows user find their lock screen pictures
+GUI app to help windows users find their lock screen pictures
 
 ## Why Are You Making a Tool Meant for Windows Users in Java Rather Than C# ?
 Because I love Java
